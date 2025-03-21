@@ -1,3 +1,10 @@
+# Sort-free 3D Gaussian Splatting
+Recurrence of Q. Hou et al., “Sort-free Gaussian Splatting via Weighted Sum Rendering,” Oct. 24, 2024, arXiv: arXiv:2410.18931. doi: 10.48550/arXiv.2410.18931.
+
+
+---
+original readme ↓↓
+
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 Bernhard Kerbl*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis (* indicates equal contribution)<br>
 | [Webpage](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Full Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Video](https://youtu.be/T_kXY43VZnk) | [Other GRAPHDECO Publications](http://www-sop.inria.fr/reves/publis/gdindex.php) | [FUNGRAPH project page](https://fungraph.inria.fr) |<br>
